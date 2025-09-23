@@ -1,4 +1,4 @@
-# PHYS 461 - HW4
+# PHYS 461 - Homework 4
 
 ## Contributors:
 
