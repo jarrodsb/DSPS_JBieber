@@ -1,1 +1,5 @@
-This is a test README file.
+# PHYS 461 - HW4
+
+## Contributors:
+
+*Jarrod Bieber* - Did stuff.
