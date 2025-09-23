@@ -2,4 +2,4 @@
 ---
 
 ## Contributors:
-**Jarrod Bieber** - Followed all steps, and produced all requested histograms and plots.
+**Jarrod Bieber** - Munged and displayed the data, and produced all requested histograms and plots.
