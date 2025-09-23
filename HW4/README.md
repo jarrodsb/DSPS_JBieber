@@ -2,4 +2,4 @@
 
 ## Contributors:
 
-**Jarrod Bieber** - Munged the data, supplied the initial code for the functions, and produced the initial plots.
+**Jarrod Bieber** - Munged the data, supplied the initial code for the functions, and produced the initial histograms and plots.
