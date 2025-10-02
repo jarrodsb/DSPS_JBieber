@@ -4,8 +4,8 @@
 
 ## Contributors:
 
-**Jarrod Bieber** - Completed the PI Hacking notebook. No AI prompt was used, other than a couple google searches for small things, like a reminder on how to do LaTex syntax in a markdown cell.
+**Jarrod Bieber** - Completed the Pi Hacking notebook. (No AI prompt was used, other than a couple google searches for small things, like a reminder on how to do LaTex syntax in a markdown cell.) Also conceptually reviewed the GRB notebook along with TJ.
 
-**TJ Tomaszewski** -
+**TJ Tomaszewski** - Completed the GRB notebook Parts 1 and 2, and answered the conceptual questions.
 
-**Katie Moses** -
+**Katie Moses** - Independently completed the Pi hacking notebook.
