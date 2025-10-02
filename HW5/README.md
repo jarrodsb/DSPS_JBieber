@@ -8,4 +8,4 @@
 
 **TJ Tomaszewski** - Completed the GRB notebook Parts 1 and 2, and answered the conceptual questions.
 
-**Katie Moses** - Independently completed the Pi hacking notebook.
+**Katie Moses** - Independently completed the Pi hacking notebook. Completed the MCMC Extra Credit problem.
