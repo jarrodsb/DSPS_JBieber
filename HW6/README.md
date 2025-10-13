@@ -6,6 +6,6 @@
 
 **Jarrod Bieber** - TBD
 
-**Katie Moses** - TBD
+**Katie Moses** - Worked independently
 
 **TJ Tomaszewski** - TBD
