@@ -3,6 +3,9 @@
 ---
 
 ## Contributors:
+
 **Jarrod Bieber** - TBD
+
 **Katie Moses** - TBD
+
 **TJ Tomaszewski** - TBD
