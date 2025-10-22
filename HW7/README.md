@@ -2,8 +2,6 @@
 ---
 ## Contributors:
 
-**Jarrod Bieber** - TBD
+**Jarrod Bieber** - Completed the assignment steps and produced all plots and the captions for the plots.
 
-**Katie Moses** - TBD
-
-**TJ Tomaszewski** - TBD
+**TJ Tomaszewski** - Reviewed Jarrod's work, to make sure his code, plots, and captions made sense.
