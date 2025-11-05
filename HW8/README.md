@@ -3,8 +3,6 @@
 
 ## Contributors:
 
-**Jarrod Bieber** - TBD
+**Jarrod Bieber** - Followed all tasks, produced all plots
 
-**Katie Moses** - TBD
-
-**TJ Tomaszewski** - TBD
+**TJ Tomaszewski** - Reviewed Jarrod's work and gave suggestions.
