@@ -4,7 +4,15 @@
 
 Test output
 
-Reference-style: 
-![alt text][logo]
+Bad Plot:
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+![alt text][badplot]
+
+[badplot]: [https://github.com/jarrodsb/DSPS_JBieber/blob/main/HW9/Bad_Plot.png] "Bad Plot"
+
+
+Good Plot:
+
+![alt text][googplot]
+
+[googplot]: [https://github.com/jarrodsb/DSPS_JBieber/blob/main/HW9/Good_Plot.png] "GoodPlot"
