@@ -10,7 +10,7 @@
 
 A histogram of Cepheid variables identified in the Gaia DR3 dataset over G -band magnitudes, compared with those previously identified in literature. From this paper: https://arxiv.org/abs/2206.06207
 
-Lie Factor of 1, clear labeling, no Chart Junk
+Reasons why this is a good plot include that it has a Lie Factor (aka Effect Size) of 1, it is clearly labeled, and it has no Chart Junk. It is also representing a managable (less than 7) number of pieces of information. Specifically, there are only 4 elements depicted in the plot legend.
 
 
 
@@ -20,7 +20,9 @@ Lie Factor of 1, clear labeling, no Chart Junk
 
 A time series plot of school completion rates of Malaysian students. From this paper: https://arxiv.org/abs/2501.18868
 
-The information is not well labeled and is ambiguous, and the density of data points creates a distraction and makes it hard to read.
+This is quite a bad visualization, for several reasons. The information is not sufficiently labeled with units of measurement, and lacking any sort of legend. The density of data points creates ambiguity, particularly in the region around 95-100 (presumably a percentage?). The time series density also creates a distraction that makes it difficult to read the plot.
+
+There are multiple ways in which I would improve this plot. First, I would specify what the unit of measurement is supposed to be on the y-axis, and I would rename the x-axis label to "Year" rather than "Date". Probably the single most effective solution to address the line density issue is to utilize the ***alpha channel*** feature. This would reveal much more of the trajectories of individual line, and address the issue of ambiguity significantly. If applying an alpha channel transparency isn't enough (which it might not be), I may also attempt to use smaller multiples of data, or utilize a heat map to emphasize a high concentration of paths within a particular percentage range. Finally, this plot really ought to have a caption included with it, to better explain the intended purpose of the plot, what the individual lines mean, and what elements of the plot we should be drawing our attention to.
 
 
 ---
