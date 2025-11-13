@@ -35,7 +35,9 @@ There are multiple ways in which I would improve this plot. First, I would speci
 **Improved Version**
 ![alt text](https://github.com/jarrodsb/DSPS_JBieber/blob/main/HW9/HW5_Improved_Plot.png "Improved Plot")
 
-This is a plot originally from HW5 and HW6, depicting Gamma Ray Burst photometry as a function of time elapsed since the triggering event. I changed a few things for improved clarity. First, I changed the colors of the data points for each photometry class. Previously the colors were randomly assigned by MatPlotLib. Now they are more realistic to the actual colors on the spectrum that the photometric bands correspond to. For example the V ("Visual") band most closely corresponds to a green color. These new colors should be more intuitive for an astronomical scientist.
+This is a plot originally from HW5 and HW6, depicting Gamma Ray Burst photometry as a function of time elapsed since the triggering event. I changed a few things for improved clarity.
+
+First, I changed the colors of the data points for each photometry class. Previously the colors were randomly assigned by MatPlotLib. Now they are more realistic to the actual colors on the spectrum that the photometric bands correspond to. For example the V ("Visual") band most closely corresponds to a green color. These new colors should be more intuitive for an astronomical scientist.
 
 Second, I added alpha channel transparency to the points, to better show the density of points, and remove some of the ambiguity around the more densely populated areas, particularly the points in the V band in the top left of the plot. For good measure, I also added alpha channel transparency to the best fit lines.
 
