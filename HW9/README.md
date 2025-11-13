@@ -29,6 +29,10 @@ There are multiple ways in which I would improve this plot. First, I would speci
 
 ## Remade Plot from the Homework Assignments:
 
+**Original Plot (HW5)**
+![alt text](https://github.com/jarrodsb/DSPS_JBieber/blob/main/HW9/HW5_Original_Plot.png "Original Plot")
+
+**Improved Version**
 ![alt text](https://github.com/jarrodsb/DSPS_JBieber/blob/main/HW9/HW5_Improved_Plot.png "Improved Plot")
 
 This is a plot originally from HW5 and HW6, depicting Gamma Ray Burst photometry as a function of time elapsed since the triggering event. I changed a few things for improved clarity. First, I changed the colors of the data points for each photometry class. Previously the colors were randomly assigned by MatPlotLib. Now they are more realistic to the actual colors on the spectrum that the photometric bands correspond to. These colors should be more intuitive for an astronomical scientist.
