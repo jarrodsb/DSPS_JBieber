@@ -29,4 +29,6 @@ There are multiple ways in which I would improve this plot. First, I would speci
 
 ## Remade Plot from the Homework Assignments:
 
-(Remade Plot Goes Here)
+![alt text](https://github.com/jarrodsb/DSPS_JBieber/blob/main/HW9/HW5_Improved_Plot.png "Improved Plot")
+
+This is a plot originally from HW5 and HW6, depicting Gamma Ray Burst photometry as a function of time elapsed since the triggering event.
