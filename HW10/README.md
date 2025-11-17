@@ -13,5 +13,5 @@
 ## Original Image:
 ![alt text](https://github.com/jarrodsb/DSPS_JBieber/blob/main/HW10/Rigel_scaled.jpg "Original Image")
 
-##DeepDream Image:
+## DeepDream Processed Image:
 ![alt text](https://github.com/jarrodsb/DSPS_JBieber/blob/main/HW10/Rigel_DeepDream.jpg "DeepDream Image")
