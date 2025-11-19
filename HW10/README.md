@@ -3,11 +3,11 @@
 
 ## Contributors:
 
-**Jarrod Bieber** - TBD
+**Jarrod Bieber** - Completed the tasks in both the DeepDream and the separate Convolution Neural Network notebooks. Produced all figures with captions.
 
-**Katie Moses** - TBD
+**Katie Moses** - Reviewed Jarrod's code, and provided a sanity check.
 
-**TJ Tomaszewski** - TBD
+**TJ Tomaszewski** - Helped identify requirements for the assignment, reviewed Jarrod's code, discussed conceptual understanding topics, and provided an additional sanity check.
 
 
 ## Original Image:
