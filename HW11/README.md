@@ -20,7 +20,7 @@ This updated plot from Ally reduces the ambiguity by changing scatter plot point
 
 The new plot generally respects Tufte's 5 rules, with the possible exception of a "lie factor" from the log scale, but as mentioned, I think this can be forgiven. The data to ink ratio is about right, and the plot depicts a managable (less than 7) number of distinct curves. The original plot's usage of various colored shapes could arguably be considered chart junk, which has been eliminated in the updated version. The one drawback to this change is that the plot is likely no longer color-blind compliant. It may be difficult for a color-blind person to distinguish between the yellow and green dashed lines, for instance. Small multiples of time units (nanoseconds) are being leveraged, and the information to data dimension ratio seems about right.
 
-![alt text](https://github.com/jarrodsb/DSPS_JBieber/blob/main/HW11/Ally_Baldelli_Plots/bad_plot.jpg "Ally_Bad Plot")
+![alt text](https://github.com/jarrodsb/DSPS_JBieber/blob/main/HW11/Ally_Baldelli_Plots/bad_plot.jpg "Ally Bad Plot")
 
 I agree that this "bad" plot is overcrowded with information and creates a distraction. It is indeed ambiguous what is the primary information that the plot is trying to get across, and some information is covered up and nearly impossible to read. The color bar that seems to convey both flux and temperature is also ambiguous. I also agree that the inconsistent change in scale along both axis, as well as the depiction of "M/R=3" and "M/R^1.5=5" as straight dashed lines seems like an intentional distortion.
 
